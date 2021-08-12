@@ -1,0 +1,118 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Shopping Mestre Álvaro
+
+### Title
+tour.name = Clinica MEDCONSULTAS 
+
+## Skin
+
+### Button
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = NOSSO SITE
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.pressedLabel = NOSSO SITE
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = AMBIENTES
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.pressedLabel = AMBIENTES
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = AMBIENTES
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = AMBIENTES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = UNIDADES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = UNIDADES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = NOSSO SITE
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = NOSSO SITE
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.pressedLabel = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = MOXUARA
+Button_15A10DDC_31FA_0014_4185_021C898E177D.pressedLabel = MOXUARA
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = PRAIA DA COSTA
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = PRAIA DA COSTA
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = MESTRE ÁLVARO
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.pressedLabel = MESTRE ALVARO
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = CONSULTÓRIO 6
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.pressedLabel = CONSULTÓRIO 6
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.label = CONSULTÓRIO 6
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.pressedLabel = CONSULTÓRIO 6
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = BACK
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.label = MOXUARA
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.pressedLabel = MOXUARA
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.label = MESTRE ÁLVARO
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.pressedLabel = MESTRE ÁLVARO
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.label = PRAIA DA COSTA
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.pressedLabel = PRAIA DA COSTA
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = UNIDADES
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.pressedLabel = UNIDADES
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = CONSULTÓRIO 3
+Button_2A2C053B_310E_001C_41A2_583DE489828C.pressedLabel = CONSULTÓRIO 3
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.label = CONSULTÓRIO 3
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.pressedLabel = CONSULTÓRIO 3
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = CONSULTÓRIO 2
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = CONSULTÓRIO 2
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.label = CONSULTÓRIO 2
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.pressedLabel = CONSULTÓRIO 2
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = CONSULTÓRIO 5
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.pressedLabel = CONSULTÓRIO 5 
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.label = CONSULTÓRIO 5
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.pressedLabel = CONSULTÓRIO 5
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = CONSULTÓRIO 4 
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.pressedLabel = CONSULTÓRIO 4
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.label = CONSULTÓRIO 4
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.pressedLabel = CONSULTÓRIO 4
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = RECEPÇÃO
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.pressedLabel = RECEPÇÃO
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = RECEPÇÃO
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.pressedLabel = RECEPÇÃO
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = BACK
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = CONSULTÓRIO
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.pressedLabel = CONSULTÓRIO
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = CONSULTÓRIO
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.pressedLabel = CONSULTÓRIO
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.059999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.579999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.579999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.579999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.27vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.25vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_6A97E25F_3FBA_728C_41C4_EB89A8607610.label = CONSULTÓRIO 5
+panorama_7D0CC4F4_3EA7_F79C_419A_868B715BA90C.label = CORREDOR 4
+panorama_7D0D0027_3EA6_0EBC_41B8_6C8F69766737.label = CONSULTÓRIO 2
+panorama_7D0D216E_3EA6_0E8C_41C7_A888A3DEC1B1.label = CORREDOR 2
+panorama_7D0D3D9A_3EA6_1194_41B6_EA0849123A4D.label = CORREDOR 3
+panorama_7D0D7DEE_3EA6_318C_41BD_CEFC8C38E011.label = CONSULTORIO 4
+panorama_7D0DBFE5_3EA6_F1BC_41B6_3F5653766195.label = CONSULTÓRIO 3
+panorama_7D0E3503_3F5A_1674_41C1_AF961E252711.label = ENTRADA
+panorama_7D0E72E5_3F5A_33BC_4196_C0E9B8B8F89D.label = RECEPÇÃO
+panorama_7D0E90A9_3F5A_0FB4_41C2_F77E5AD6B1DA.label = CORREDOR
+panorama_7D0EFACE_3F5A_138C_41BB_72AB57803C2C.label = CONSULTORIO 
+panorama_7D0FF1AA_3F5A_11B4_41C6_915942995DE4.label = PORTA PRINCIPAL
+panorama_7DA2F3CC_3EA6_118C_41B5_7B12F71D56BC.label = CONSULTOTIO 6
+
+## Action
+
+### URL
+LinkBehaviour_53987E33_3EAA_1294_41AE_C9FE76D76B4B.source = https://www.google.com/maps/place/Av.+Jo%C3%A3o+Pal%C3%A1cio,+300+-+Conj.+Carapina+I,+Serra+-+ES,+29160-220/@-20.2394291,-40.2744538,3a,75y,203.51h,84.56t/data=!3m6!1e1!3m4!1skVFZrHwLZn0zhYZ2RmKnMw!2e0!7i16384!8i8192!4m5!3m4!1s0xb818e4d263fc05:0xc08adf079dfbb3d8!8m2!3d-20.2392296!4d-40.2752492
+LinkBehaviour_58B5A6EA_3F6E_33B4_41C4_84D3B43E4816.source = https://www.instagram.com/medconsulta_clinicas/
+LinkBehaviour_597E329F_3F5B_F38C_41B1_D4D26F7F136F.source = https://medconsulta.com.br/
+LinkBehaviour_59829152_3EAE_0E94_41CC_9100E2F2EE1D.source = https://www.google.com/maps/place/Shopping+Praia+da+Costa/@-20.3419422,-40.2900288,17z/data=!3m1!4b1!4m5!3m4!1s0xb8171eeb322f27:0xe5401467d0d03cf9!8m2!3d-20.3419422!4d-40.2878401
+LinkBehaviour_5C93C4DA_3F6E_3794_41C6_9A54F8163E1B.source = https://api.whatsapp.com/send?phone=555527996932477
+LinkBehaviour_5D3126F2_3F6E_1399_41B6_9DFA3D1DA514.source = https://www.google.com/maps/place/Av.+Jo%C3%A3o+Pal%C3%A1cio,+300+-+Conj.+Carapina+I,+Serra+-+ES,+29160-220/@-20.2394291,-40.2744538,3a,75y,187.66h,93.69t/data=!3m6!1e1!3m4!1skVFZrHwLZn0zhYZ2RmKnMw!2e0!7i16384!8i8192!4m5!3m4!1s0xb818e4d263fc05:0xc08adf079dfbb3d8!8m2!3d-20.2392296!4d-40.2752492
+LinkBehaviour_5EF9CF5A_3EAA_1294_41C7_91F4C35B8B14.source = https://www.google.com/maps?q=Avenida+M%C3%A1rio+Gurgel,+5353+S%C3%A3o+Francisco,+Cariacica+-+ES+CEP:+29140-000.+Piso+L1+(Ao+lado+da+Lot%C3%A9rica+e+em+frente+a+Academia+F%C3%B3rmula)&rlz=1C1GGRV_enBR748BR748&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjWnpWF6KvyAhVgr5UCHXYkAaAQ_AUoAXoECAEQAw
+
+LinkBehaviour_6068F764_3FEA_72BC_419C_E1015E676E1C.source = https://www.google.com/maps?q=Avenida+M%C3%A1rio+Gurgel,+5353+S%C3%A3o+Francisco,+Cariacica+-+ES+CEP:+29140-000.+Piso+L1+(Ao+lado+da+Lot%C3%A9rica+e+em+frente+a+Academia+F%C3%B3rmula)&rlz=1C1GGRV_enBR748BR748&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj6x62i1avyAhU6qZUCHS5aAl4Q_AUoAXoECAEQAw
+LinkBehaviour_61482992_3FA6_1194_41BC_773288825E90.source = https://www.instagram.com/medconsulta_clinicas/
+LinkBehaviour_650C28CA_3FBA_1FF4_41C7_155DDCA54545.source = https://www.google.com/maps/place/Av.+Jo%C3%A3o+Pal%C3%A1cio,+300+-+Conj.+Carapina+I,+Serra+-+ES,+29160-220/@-20.2394291,-40.2744538,3a,75y,187.66h,93.69t/data=!3m6!1e1!3m4!1skVFZrHwLZn0zhYZ2RmKnMw!2e0!7i16384!8i8192!4m5!3m4!1s0xb818e4d263fc05:0xc08adf079dfbb3d8!8m2!3d-20.2392296!4d-40.2752492
+LinkBehaviour_65217FA5_3FEA_11BC_41B5_A81EC29BE60E.source = https://www.google.com/search?q=Av.+Jo%C3%A3o+Pal%C3%A1cio%2C+300+-+Eurico+Salles%2C+Serra+-+CEP%3A+29160-169&rlz=1C1GGRV_enBR748BR748&oq=Av.+Jo%C3%A3o+Pal%C3%A1cio%2C+300+-+Eurico+Salles%2C+Serra+-+CEP%3A+29160-169&aqs=chrome..69i57.3062j0j4&sourceid=chrome&ie=UTF-8
+LinkBehaviour_66537093_3FE6_0F94_41C8_ED4319AC7AB0.source = https://www.google.com/maps/place/Shopping+Praia+da+Costa/@-20.3419422,-40.2900288,17z/data=!3m1!4b1!4m5!3m4!1s0xb8171eeb322f27:0xe5401467d0d03cf9!8m2!3d-20.3419422!4d-40.2878401
+LinkBehaviour_66AD6980_3FBE_1E74_41C0_827B537A4BC2.source = https://api.whatsapp.com/send?phone=555527996932477
+LinkBehaviour_6C5AE9D6_3FAA_119C_418E_8260BFC249B4.source = https://medconsulta.com.br/
